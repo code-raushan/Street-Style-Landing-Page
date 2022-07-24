@@ -19,5 +19,6 @@ This was the first landing page I coded in pure CSS. I was able to learn:
 >**This project took me 7 hours to complete that involved learning about CSS Positions, Z-index and tiny bit of Flexbox**😃
 
 Below is what I built👇
-
+<br>
+[Street-Style-Swag](https://street-style.netlify.app/)
 ![lco](./project1css.png)
